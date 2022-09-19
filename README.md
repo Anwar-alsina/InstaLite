@@ -7,6 +7,8 @@ This is a Simple clone of Instagram that displays posts uploaded by users of thi
 - **Welcome** - A user is able to see nice welcome screen to navigate between Sign In and Sign Up
 - **Sign In** - A user is able to login with their email and password
 - **Sign Up** - A user is able to sign up with the information
+- **Posts ** - A user is able to upload and see different posts by other users.
+
 
 ## Libraries used
 
